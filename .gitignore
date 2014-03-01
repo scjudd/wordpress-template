@@ -1,3 +1,10 @@
+httpdocs/wp-content/backup/*
+httpdocs/wp-content/cache/*
+httpdocs/wp-content/upgrade/*
+httpdocs/wp-content/uploads/*
+httpdocs/sitemap.*
+httpdocs/wp-config.php
+
 *.DS_Store
 *.[Tt]humbs.db
 *.Trashes
