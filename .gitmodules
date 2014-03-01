@@ -1,0 +1,3 @@
+[submodule "httpdocs/wordpress"]
+	path = httpdocs/wordpress
+	url = https://github.com/WordPress/WordPress.git
